@@ -10,3 +10,11 @@ osg/__pycache__/settings.cpython-36.pyc
 osg/__pycache__/__init__.cpython-36.pyc
 osg/__pycache__/urls.cpython-36.pyc
 osg/key.py
+main/__pycache__/views.cpython-36.pyc
+main/__pycache__/urls.cpython-36.pyc
+main/__pycache__/models.cpython-36.pyc
+main/__pycache__/admin.cpython-36.pyc
+main/__pycache__/__init__.cpython-36.pyc
+main/migrations/__pycache__/__init__.cpython-36.pyc
+main/migrations/__pycache__/0001_initial.cpython-36.pyc
+venv/
