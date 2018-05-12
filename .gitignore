@@ -1,0 +1,12 @@
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/osg.iml
+.idea/workspace.xml
+db.sqlite3
+osg/__pycache__/wsgi.cpython-36.pyc
+osg/__pycache__/key.cpython-36.pyc
+osg/__pycache__/settings.cpython-36.pyc
+osg/__pycache__/__init__.cpython-36.pyc
+osg/__pycache__/urls.cpython-36.pyc
+osg/key.py
